@@ -14,3 +14,4 @@ public class DoWhile {
 		System.out.println("1~100까지의 합은?" );
 		System.out.println("1~100까지의 합은?" );
 }
+}
