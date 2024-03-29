@@ -78,8 +78,10 @@ public class EqualsTest {
 		}
 		
 		// 정리?
+		// 객체가 힙영역에 가지고 있는 정보(데이터)가 동일한 데이터라고 간주를 하고 싶다면
 		// 객체비교시 내부적으로 Object클래스의 equals(), hashCode()메서드가 동작된다.
 		// 객체가 참조하고 있는 힙영역의 데이터로 비교하도록, equals(), hashCode()메서드를 재정의하자.
+		
 		
 		// toString()메서드가 자동으로 호출
 		System.out.println(st1);

@@ -10,7 +10,11 @@ public abstract class Animal {
 	String eyeColor;
 	String speed;
 	
+<<<<<<< HEAD
 	
+=======
+	// 메서드 : head + body 의 구조. head : prototype(프로토타입)
+>>>>>>> 5ffbb2cb534d38b74c8f14b76733fd2f63d4265e
 	// 추상메서드 : 몸체(body) 없는 메서드
 	abstract void run();
 	
